@@ -38,9 +38,9 @@ Simulação de operações como depósito, saque e controle de saldo em ambiente
 ---
 
 🔹 **Sistema de login e cadastro**  
-Aplicação com validação de dados e estrutura básica de autenticação.  
+Aplicação em Python que simula um sistema de cadastro e login, com validação de senha e interação via terminal. 
 
-🔗 https://github.com/mariah828/Login-Cadastro-python  
+🔗Acesse o projeto: https://github.com/mariah828/sistema-login-cadastro-python  
 
 ---
 
