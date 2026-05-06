@@ -3,7 +3,7 @@
 # 👋 Olá, eu sou a Mariah
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=6A5ACD&size=22&center=false&vCenter=true&width=500&lines=Desenvolvedora+em+formação;Focada+em+Desenvolvimento+Web;Sempre+aprendendo+e+evoluindo" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=6A5ACD&size=22&center=false&vCenter=true&width=500&lines=Desenvolvedora+em+formação;Foco+em+Desenvolvimento+Web;Construindo+projetos+práticos" />
 </p>
 
 💻 Desenvolvedora em formação  
@@ -55,14 +55,6 @@ Projetos interativos utilizando HTML, CSS e JavaScript (tabuada, horário dinâm
 - React  
 - Inteligência Artificial  
 - Estruturação de projetos e boas práticas  
-
----
-
-## 📊 Estatísticas
-<p align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mariah828&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariah828&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
