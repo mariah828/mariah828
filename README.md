@@ -31,9 +31,9 @@ Sou estudante de ADS com foco em desenvolvimento de software, evoluindo através
 ## 🚀 Projetos em destaque
 
 🔹 **Sistema bancário em Python**  
-Simulação de operações como depósito, saque e controle de saldo, com foco em lógica de programação.  
+Simulação de operações como depósito, saque e controle de saldo em ambiente de terminal. Projeto desenvolvido com o objetivo de praticar lógica de programação utilizando Python.
 
-🔗 https://github.com/mariah828/banco-b-sico-python  
+🔗Acesse o projeto: https://github.com/mariah828/sistema-bancario-python 
 
 ---
 
