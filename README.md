@@ -30,10 +30,10 @@ Sou estudante de ADS com foco em desenvolvimento de software, evoluindo através
 
 ## 🚀 Projetos em destaque
 
-🔹 **Sistema bancário em Python**  
-Simulação de operações como depósito, saque e controle de saldo em ambiente de terminal. Projeto desenvolvido com o objetivo de praticar lógica de programação utilizando Python.
+🔹 **Sistema de compras em Python**  
+O Sistema de Compras é uma aplicação desenvolvida em Python para simular e organizar compras, permitindo o gerenciamento de produtos de forma prática e dinâmica. Interação via terminal.
 
-🔗Acesse o projeto: https://github.com/mariah828/sistema-bancario-python 
+🔗Acesse o projeto: https://github.com/mariah828/sistema-de-compras
 
 ---
 
